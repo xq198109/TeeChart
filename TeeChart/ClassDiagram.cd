@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CChartSurfaceSerie" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAgAAABAAAJCAgAEAAAgAAAAAAEAAAIAACAAAAAAAAA=</HashCode>
+      <FileName>ChartClass\ChartSurfaceSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartLineSerie" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CogAAAAAIAAAAkAAAAAgAAggAAMAAAAAAAAAAEAAACQ=</HashCode>
+      <FileName>ChartClass\ChartLineSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartXYSerie" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgCQAAgAQgIEAAAAAAAAAAAAgAAAAQAiAIA=</HashCode>
+      <FileName>ChartClass\ChartXYSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartAxis">
+    <Position X="8.5" Y="5.75" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CChartAxis::EAxisAutoModes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartAxis.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Typedef Name="CChartAxis::SeriesList" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartAxis.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QGkgLIKiUrhpMwAsBiKCELyRgMgMClchEtTKCQAIQSE=</HashCode>
+      <FileName>ChartClass\ChartAxis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartAxisLabel" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAIAAIEgCMAIABAACAAAAAQkCAMAgAAAAAAAA=</HashCode>
+      <FileName>ChartClass\ChartAxisLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartBalloonLabel&lt;PointType&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAEAIMBgAgAAACAAAACAEgAwAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>ChartClass\ChartBalloonLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartBarSerie" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEMDChAQCJAAgBEABAwAAEAYgEkZIgABAAhAgQIAAg=</HashCode>
+      <FileName>ChartClass\ChartBarSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCandlestickSerie">
+    <Position X="13.75" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEgAQAgAAAAAwBAAQABEgCAAAAAAACEAAAAQ=</HashCode>
+      <FileName>ChartClass\ChartCandlestickSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCrossHairCursor" Collapsed="true">
+    <Position X="3.25" Y="10.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQCgEAAJAAAAAAABAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChartClass\ChartCrossHairCursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCtrl" Collapsed="true">
+    <Position X="12" Y="0.75" Width="7.25" />
+    <NestedTypes>
+      <Enum Name="CChartCtrl::EAxisPos" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartCtrl.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Typedef Name="CChartCtrl::TSeriesMap" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartCtrl.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="CChartCtrl::TCursorMap" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartCtrl.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="CChartCtrl::TSeriesMapIter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartCtrl.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>DAKIVCGUxEmECWAbAjYAAoFNCz8wIFiJI48NRHI+CSg=</HashCode>
+      <FileName>ChartClass\ChartCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCursor" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgIABAAAAAAAggAAAAAgAAAAABAAggAACggAACAIAAA=</HashCode>
+      <FileName>ChartClass\ChartCursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartCursorListener" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ChartClass\ChartCursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartDateTimeAxis">
+    <Position X="6" Y="7.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CChartDateTimeAxis::TimeInterval" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChartClass\ChartDateTimeAxis.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QgAgAAIAgISAABAACEAAAAAQAAACAAAAQACIAgAIgSA=</HashCode>
+      <FileName>ChartClass\ChartDateTimeAxis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartDragLineCursor" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAQAAgAAAIAAAAAAABAAIgAAAAAACAAIAAA=</HashCode>
+      <FileName>ChartClass\ChartDragLineCursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartFont" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAQAEACAAAAAACAAQAAAAAEAANgAAAABCA=</HashCode>
+      <FileName>ChartClass\ChartFont.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartGanttSerie" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAMBCgAAAAQAgAAACAgAAAAYgEkQIgABACAAAQAAAg=</HashCode>
+      <FileName>ChartClass\ChartGanttSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartGradient" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChartClass\ChartGradient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartGrid" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAAAIEgAAAAAQAAQAAAAAAgCAAAgAAAQAICA=</HashCode>
+      <FileName>ChartClass\ChartGrid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartLabel&lt;PointType&gt;" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAgIAgAAAAAAAAGAAAAAAgAAIBAyAAAAAQA=</HashCode>
+      <FileName>ChartClass\ChartLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartLabelProvider&lt;PointType&gt;" Collapsed="true">
+    <Position X="21" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ChartClass\ChartLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartLegend" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEMAAUAQBBgpEiACCACBgACAAAAgQgKBAAYCAAAJAEA=</HashCode>
+      <FileName>ChartClass\ChartLegend.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartLogarithmicAxis" Collapsed="true">
+    <Position X="0.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAIAAAAAAACAABAAAAAAAABQgAACIAAAIgCA=</HashCode>
+      <FileName>ChartClass\ChartLogarithmicAxis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartMouseListener" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAQEAAAAAAAAAQBAAAAABAAAAAA=</HashCode>
+      <FileName>ChartClass\ChartMouseListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartPointsArray&lt;T&gt;" Collapsed="true">
+    <Position X="20" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EIDAQQAwAgAxGEAAAEAAAAAADIEAgAAAAAOgCCBQCAA=</HashCode>
+      <FileName>ChartClass\ChartPointsArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartPointsSerie" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAEQwggABAAAgAAAAAgFgAAEAAAAAABAAAAA=</HashCode>
+      <FileName>ChartClass\ChartPointsSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartScrollBar" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQJAEMAABAEAEAAAhIAAEAAAgAAAAAAAEAAAAAAIA=</HashCode>
+      <FileName>ChartClass\ChartScrollBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartSerie">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CgEMAgABEAMJkgAISIQhCABQAAEiwgKEEAggQAgMBAE=</HashCode>
+      <FileName>ChartClass\ChartSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartSerieBase&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgEIgAQkgARCAAAAEAAAgAQAAACgAAAhBIkCAgIAAA=</HashCode>
+      <FileName>ChartClass\ChartSerieBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartSeriesMouseListener&lt;PointType&gt;" Collapsed="true">
+    <Position X="21.5" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAEAA=</HashCode>
+      <FileName>ChartClass\ChartSeriesMouseListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartStandardAxis" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAIwAAAAACAAAAAAIAAAAAARAAACIAAAIgCA=</HashCode>
+      <FileName>ChartClass\ChartStandardAxis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChartTitle" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACABQoFgCAIAQABACAAAAAQgCAMAgAAAAEAAA=</HashCode>
+      <FileName>ChartClass\ChartTitle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSeries" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yS5cuHJiDTOA2AwSKRSEE9RCRGulqHUvYKHWSqplsFY=</HashCode>
+      <FileName>CSeries.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SChartCandlestickPoint" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAIAAAAgAAAAAIACgABAAQYAABAACAAAA=</HashCode>
+      <FileName>ChartClass\ChartCandlestickSerie.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SChartGanttPoint" Collapsed="true">
+    <Position X="19.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAIICAgBAAQYAAAAAAAAAI=</HashCode>
+      <FileName>ChartClass\ChartGanttSerie.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SChartXYPoint" Collapsed="true">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIACAABAAQYgAAAQAAYAA=</HashCode>
+      <FileName>ChartClass\ChartXYSerie.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
