@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  TeeChartDlg.cpp
+g:\minictp\绘图\hightspeedchart\teechart\teechartdlg.cpp(260): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  TeeChart.cpp
+  ChartXYSerie.cpp
+  ChartTitle.cpp
+  ChartSurfaceSerie.cpp
+  ChartStandardAxis.cpp
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartstandardaxis.cpp(151): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartstandardaxis.cpp(317): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartstandardaxis.cpp(339): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChartSerie.cpp
+  ChartScrollBar.cpp
+  ChartPointsSerie.cpp
+  ChartLogarithmicAxis.cpp
+  ChartLineSerie.cpp
+  ChartLegend.cpp
+  ChartGrid.cpp
+  ChartGradient.cpp
+  ChartGanttSerie.cpp
+  ChartFont.cpp
+  ChartDragLineCursor.cpp
+  ChartDateTimeAxis.cpp
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(300): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(575): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(587): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(598): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(608): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(617): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\minictp\绘图\hightspeedchart\teechart\chartclass\chartdatetimeaxis.cpp(624): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChartCursor.cpp
+  ChartCtrl.cpp
+  正在生成代码...
+  正在编译...
+  ChartCrossHairCursor.cpp
+  ChartCandlestickSerie.cpp
+  ChartBarSerie.cpp
+  ChartAxisLabel.cpp
+  ChartAxis.cpp
+  正在生成代码...
+  TeeChart.vcxproj -> G:\minictp\绘图\HightSpeedChart\Debug\TeeChart.exe
+  TeeChart.vcxproj -> G:\minictp\绘图\HightSpeedChart\Debug\TeeChart.pdb (Full PDB)
